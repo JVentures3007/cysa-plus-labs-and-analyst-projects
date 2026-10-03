@@ -14,6 +14,7 @@ This index tracks work completed or scheduled during the CySA+ study path.
 | Project / Lab | Type | Status | Tools / Technologies | Primary Skills |
 |---|---|---|---|---|
 | Security Operations Chapter Labs | Chapter lab set | In Progress | Nmap, Linux, Windows tools, logs | Security operations, analysis, documentation |
+| [Virtualized Security Lab Environment](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md) | Hands-on lab | Completed | QEMU/KVM, libvirt, Kali Linux, Windows 11 | Lab isolation, routing validation, evidence handling |
 | Port Scanning & Fingerprinting | Hands-on lab | In Progress | Nmap | Reconnaissance, service discovery, fingerprinting |
 | Metasploit Fundamentals | Hands-on lab | In Progress | Metasploit | Exploitation workflow awareness, service analysis |
 
@@ -21,9 +22,9 @@ This index tracks work completed or scheduled during the CySA+ study path.
 
 | Project / Lab | Type | Status | Tools / Technologies | Primary Skills |
 |---|---|---|---|---|
-| Threat Intelligence Analysis | Chapter lab set | In Progress | OTX, STIX, TAXII | Threat intel, IOC analysis, enrichment |
-| OTX Research Exercise | Analyst exercise | In Progress | AlienVault OTX | IOC research, source evaluation |
-| STIX/TAXII Workflow | Analyst exercise | In Progress | STIX, TAXII | Structured threat intelligence |
+| [Chapter 4 Threat Intelligence Workflow](../02-threat-intelligence/CYSA-C04-threat-intelligence-workflow/README.md) | Chapter lab set | Completed | OTX, Pulsedive, STIX 2.1, TAXII 2.1, Python | Threat intelligence, IOC analysis, lifecycle application |
+| [OTX Indicator Review (A01)](../02-threat-intelligence/CYSA-C04-threat-intelligence-workflow/README.md#activity-a01--public-indicator-review) | Analyst exercise | Completed | LevelBlue OTX | IOC research, source evaluation, false-positive control |
+| [STIX/TAXII Collection Workflow (A02)](../02-threat-intelligence/CYSA-C04-threat-intelligence-workflow/README.md#activity-a02--structured-stixtaxii-collection) | Analyst exercise | Completed | Pulsedive, STIX 2.1, TAXII 2.1, Python | Structured threat intelligence, polling, change detection |
 
 ## Vulnerability Management
 
