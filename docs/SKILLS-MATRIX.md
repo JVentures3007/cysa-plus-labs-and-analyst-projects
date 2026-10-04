@@ -5,14 +5,14 @@ This matrix maps demonstrated skills to portfolio evidence.
 | Skill | Evidence Source | Tools / Technologies | Portfolio State |
 |---|---|---|---|
 | Security operations | [Virtualized Security Lab Environment](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md) and chapter labs | Linux, Windows, QEMU/KVM, libvirt | Demonstrated |
-| Network reconnaissance | Port scanning and fingerprinting labs | Nmap | Building |
-| Service enumeration | Scanning/fingerprinting labs | Nmap | Building |
+| Network reconnaissance | [Chapter 5 Network Reconnaissance Workflow](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md) | Nmap, Wireshark | Demonstrated |
+| Service enumeration | [Chapter 5 Network Reconnaissance Workflow](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md) | Nmap, Metasploit, Wmap | Demonstrated |
 | Threat intelligence | [Chapter 4 Threat Intelligence Workflow](../02-threat-intelligence/CYSA-C04-threat-intelligence-workflow/README.md) | OTX, Pulsedive, STIX 2.1, TAXII 2.1 | Demonstrated |
 | IOC analysis | [OTX Indicator Review](../02-threat-intelligence/CYSA-C04-threat-intelligence-workflow/README.md#activity-a01--public-indicator-review) | OTX, public sources | Demonstrated |
 | Structured threat intelligence | [STIX/TAXII Collection Workflow](../02-threat-intelligence/CYSA-C04-threat-intelligence-workflow/README.md#activity-a02--structured-stixtaxii-collection) | STIX 2.1, TAXII 2.1, Pulsedive, Python | Demonstrated |
 | Lab isolation and routing validation | [Virtualized Security Lab Environment](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md) | QEMU/KVM, libvirt, IPv4 routing | Demonstrated |
-| Vulnerability scanning | Vulnerability scan lab | Vulnerability scanner | Demonstrated |
-| Vulnerability analysis | Vulnerability scan analysis | Scanner output | Demonstrated |
+| Vulnerability scanning | [Chapter 6 Vulnerability Scanner Workflow](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md) | Nessus Essentials, Nmap | Demonstrated |
+| Vulnerability analysis | [Chapter 6 Finding Analysis](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md#representative-findings) | Nessus output, Linux validation | Demonstrated |
 | Vulnerability prioritization | Vulnerability management reporting | Scan findings, risk context | Building |
 | Remediation planning | Vulnerability management reporting | Reporting workflow | Building |
 | Incident response | Incident-response labs | Logs, evidence, IR workflow | Building |
@@ -22,8 +22,8 @@ This matrix maps demonstrated skills to portfolio evidence.
 | Technical documentation | [Published lab writeups](../README.md#portfolio-areas) | Markdown, structured reports | Demonstrated |
 | Executive security reporting | Vulnerability and incident reports | Written analysis | Building |
 | Root-cause analysis | Integrated analyst projects | Evidence and timelines | Building |
-| Evidence handling | [Virtualized Security Lab Environment](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md) and Chapter 4 workflow | Logs, artifacts, structured evidence | Demonstrated |
-| Metasploit awareness | Metasploit-related CySA labs | Metasploit | Building |
+| Evidence handling | [Virtualized Lab](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md), [Chapter 5](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md), and [Chapter 6](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md) | Logs, packets, scan results, structured evidence | Demonstrated |
+| Metasploit auxiliary scanning | [Chapter 5 Auxiliary Scanning](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md#lab-3--metasploit-auxiliary-scanning) | Metasploit, Wmap | Demonstrated |
 | Security workflow automation | CS0-004 extension labs | Automation concepts, scripts | Planned |
 | AI-assisted security operations | CS0-004 extension labs | AI workflow design | Planned |
 | AI security risk analysis | AI-specific threat labs | Prompt injection, data poisoning concepts | Planned |
