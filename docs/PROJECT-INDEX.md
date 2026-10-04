@@ -15,8 +15,9 @@ This index tracks work completed or scheduled during the CySA+ study path.
 |---|---|---|---|---|
 | Security Operations Chapter Labs | Chapter lab set | In Progress | Nmap, Linux, Windows tools, logs | Security operations, analysis, documentation |
 | [Virtualized Security Lab Environment](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md) | Hands-on lab | Completed | QEMU/KVM, libvirt, Kali Linux, Windows 11 | Lab isolation, routing validation, evidence handling |
-| Port Scanning & Fingerprinting | Hands-on lab | In Progress | Nmap | Reconnaissance, service discovery, fingerprinting |
-| Metasploit Fundamentals | Hands-on lab | In Progress | Metasploit | Exploitation workflow awareness, service analysis |
+| [Chapter 5 Network Reconnaissance Workflow](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md) | Chapter lab set | Completed | Nmap, Wireshark, Metasploit, Wmap | Scanning, packet analysis, fingerprinting, auxiliary assessment |
+| [Port Scanning & Fingerprinting](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md#lab-1--port-scanning-and-packet-capture) | Hands-on lab | Completed | Nmap, Wireshark | Reconnaissance, TCP-state analysis, OS fingerprinting |
+| [Metasploit Auxiliary Scanning](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md#lab-3--metasploit-auxiliary-scanning) | Hands-on lab | Completed | Metasploit, Wmap | Auxiliary assessment, service analysis, scope control |
 
 ## Threat Intelligence
 
@@ -30,8 +31,9 @@ This index tracks work completed or scheduled during the CySA+ study path.
 
 | Project / Lab | Type | Status | Tools / Technologies | Primary Skills |
 |---|---|---|---|---|
-| Vulnerability Scan | Hands-on lab | Completed / Source Lab | Vulnerability scanner | Scanning, finding identification |
-| Vulnerability Scan Analysis | Analyst exercise | Completed / Source Lab | Scanner output | Validation, prioritization, analysis |
+| [Chapter 6 Vulnerability Scanner Workflow](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md) | Chapter lab set | Completed | Nessus Essentials, Kali Linux, Nmap | Scanner administration, authorized assessment, coverage analysis |
+| [Authorized Single-Host Scan](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md#lab-2--authorized-single-host-scan) | Hands-on lab | Completed | Nessus Essentials | Scanning, finding identification, evidence preservation |
+| [Vulnerability Finding Analysis](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md#representative-findings) | Analyst exercise | Completed | Nessus output, Linux validation | Validation, limitations, remediation planning |
 | Vulnerability Management Reporting | Reporting project | Scheduled | Prior scan results | Executive reporting, remediation planning |
 
 ## Incident Response
