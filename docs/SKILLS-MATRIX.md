@@ -12,9 +12,10 @@ This matrix maps demonstrated skills to portfolio evidence.
 | Structured threat intelligence | [STIX/TAXII Collection Workflow](../02-threat-intelligence/CYSA-C04-threat-intelligence-workflow/README.md#activity-a02--structured-stixtaxii-collection) | STIX 2.1, TAXII 2.1, Pulsedive, Python | Demonstrated |
 | Lab isolation and routing validation | [Virtualized Security Lab Environment](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md) | QEMU/KVM, libvirt, IPv4 routing | Demonstrated |
 | Vulnerability scanning | [Chapter 6 Vulnerability Scanner Workflow](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md) | Nessus Essentials, Nmap | Demonstrated |
-| Vulnerability analysis | [Chapter 6 Finding Analysis](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md#representative-findings) | Nessus output, Linux validation | Demonstrated |
-| Vulnerability prioritization | Vulnerability management reporting | Scan findings, risk context | Building |
-| Remediation planning | Vulnerability management reporting | Reporting workflow | Building |
+| Vulnerability analysis | [Chapter 7 Vulnerability Analysis and Remediation](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md) | Nessus Essentials, Linux validation | Demonstrated |
+| Vulnerability prioritization | [Chapter 7 CVSS Analysis](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md#lab-2--validate-cvss-and-prioritize) | FIRST CVSS Calculator, scan evidence, risk context | Demonstrated |
+| Remediation planning | [Chapter 7 Remediation Workflow](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md#lab-3--remediate-and-verify) | Change planning, snapshots, rollback criteria | Demonstrated |
+| Remediation verification | [Chapter 7 Remediation Workflow](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md#verified-outcome) | Comparative scanning, target-side checks | Demonstrated |
 | Incident response | Incident-response labs | Logs, evidence, IR workflow | Building |
 | Incident reporting | Incident reporting exercise | CISA resources | Building |
 | Public incident analysis | Public incident report review | Public disclosures | Building |
@@ -22,7 +23,7 @@ This matrix maps demonstrated skills to portfolio evidence.
 | Technical documentation | [Published lab writeups](../README.md#portfolio-areas) | Markdown, structured reports | Demonstrated |
 | Executive security reporting | Vulnerability and incident reports | Written analysis | Building |
 | Root-cause analysis | Integrated analyst projects | Evidence and timelines | Building |
-| Evidence handling | [Virtualized Lab](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md), [Chapter 5](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md), and [Chapter 6](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md) | Logs, packets, scan results, structured evidence | Demonstrated |
+| Evidence handling | [Virtualized Lab](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md), [Chapter 5](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md), [Chapter 6](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md), and [Chapter 7](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md) | Logs, packets, scan results, structured evidence | Demonstrated |
 | Metasploit auxiliary scanning | [Chapter 5 Auxiliary Scanning](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md#lab-3--metasploit-auxiliary-scanning) | Metasploit, Wmap | Demonstrated |
 | Security workflow automation | CS0-004 extension labs | Automation concepts, scripts | Planned |
 | AI-assisted security operations | CS0-004 extension labs | AI workflow design | Planned |
