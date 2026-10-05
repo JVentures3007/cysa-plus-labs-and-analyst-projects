@@ -34,6 +34,9 @@ This index tracks work completed or scheduled during the CySA+ study path.
 | [Chapter 6 Vulnerability Scanner Workflow](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md) | Chapter lab set | Completed | Nessus Essentials, Kali Linux, Nmap | Scanner administration, authorized assessment, coverage analysis |
 | [Authorized Single-Host Scan](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md#lab-2--authorized-single-host-scan) | Hands-on lab | Completed | Nessus Essentials | Scanning, finding identification, evidence preservation |
 | [Vulnerability Finding Analysis](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md#representative-findings) | Analyst exercise | Completed | Nessus output, Linux validation | Validation, limitations, remediation planning |
+| [Chapter 7 Vulnerability Analysis and Remediation](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md) | Chapter lab set | Completed | Nessus Essentials, FIRST CVSS Calculator, Kali Linux, Ubuntu Linux | Finding analysis, CVSS interpretation, remediation verification |
+| [CVSS Analysis and Local Prioritization](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md#lab-2--validate-cvss-and-prioritize) | Analyst exercise | Completed | FIRST CVSS Calculator, Nessus output | Vector analysis, contextual prioritization, uncertainty handling |
+| [Reversible Remediation and Verification](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md#lab-3--remediate-and-verify) | Hands-on lab | Completed | Nessus Essentials, Kali Linux, Ubuntu Linux | Change control, comparative rescanning, residual-risk reporting |
 | Vulnerability Management Reporting | Reporting project | Scheduled | Prior scan results | Executive reporting, remediation planning |
 
 ## Incident Response
