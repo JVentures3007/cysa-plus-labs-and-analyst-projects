@@ -37,21 +37,22 @@ This index tracks work completed or scheduled during the CySA+ study path.
 | [Chapter 7 Vulnerability Analysis and Remediation](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md) | Chapter lab set | Completed | Nessus Essentials, FIRST CVSS Calculator, Kali Linux, Ubuntu Linux | Finding analysis, CVSS interpretation, remediation verification |
 | [CVSS Analysis and Local Prioritization](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md#lab-2--validate-cvss-and-prioritize) | Analyst exercise | Completed | FIRST CVSS Calculator, Nessus output | Vector analysis, contextual prioritization, uncertainty handling |
 | [Reversible Remediation and Verification](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md#lab-3--remediate-and-verify) | Hands-on lab | Completed | Nessus Essentials, Kali Linux, Ubuntu Linux | Change control, comparative rescanning, residual-risk reporting |
-| Vulnerability Management Reporting | Reporting project | Scheduled | Prior scan results | Executive reporting, remediation planning |
+| [Chapter 12 Security Reporting and Documentation](../05-security-reporting/CYSA-C12-security-reporting-and-documentation/README.md) | Reporting chapter set | Completed | Prior scan evidence, public reports, synthetic logs | Executive reporting, evidence-bounded incident documentation |
 
 ## Incident Response
 
 | Project / Lab | Type | Status | Tools / Technologies | Primary Skills |
 |---|---|---|---|---|
-| Public Incident Report Review | Analyst research | Scheduled | Public reports, web research | Incident analysis, communication review |
-| Incident Reporting Exercise | Reporting lab | Scheduled | CISA resources | Incident documentation, escalation |
-| Incident Response Chapter Labs | Chapter lab set | In Progress | Logs, evidence, IR workflow | Scoping, containment, reporting |
+| [Chapter 9 Incident Response Planning and Threat Mapping](../04-incident-response/CYSA-C09-incident-response-planning-and-threat-mapping/README.md) | Chapter lab set | Completed | NIST SP 800-61, MITRE ATT&CK, public sources | Severity classification, communications, phase mapping, ATT&CK mapping |
+| [Chapter 10 Indicator, Log, and Preservation Analysis](../04-incident-response/CYSA-C10-indicator-log-and-preservation-analysis/README.md) | Chapter lab set | Completed | OTX, Linux, grep, integrity tools | IOC evaluation, authentication-log analysis, evidence preservation |
+| [Public Incident Report Critique](../05-security-reporting/CYSA-C12-security-reporting-and-documentation/README.md#labs-completed) | Analyst research | Completed | Public disclosures, source corroboration | Incident analysis, communication review |
+| [Synthetic Incident Reporting Exercise](../05-security-reporting/CYSA-C12-security-reporting-and-documentation/README.md#labs-completed) | Reporting lab | Completed | Synthetic authentication logs, reporting framework | Incident documentation, evidence limits, escalation recommendations |
 
 ## ATT&CK & Adversary Mapping
 
 | Project / Lab | Type | Status | Tools / Technologies | Primary Skills |
 |---|---|---|---|---|
-| Activity-to-ATT&CK Mapping | Analyst project | Planned | MITRE ATT&CK | Tactic/technique mapping, behavior analysis |
+| [WannaCry Behavior-to-ATT&CK Mapping](../04-incident-response/CYSA-C09-incident-response-planning-and-threat-mapping/README.md) | Analyst project | Completed | MITRE ATT&CK, vendor reporting | Tactic/technique mapping, behavior analysis, attribution limits |
 
 ## Automation & AI Security
 
