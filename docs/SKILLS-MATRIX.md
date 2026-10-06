@@ -16,14 +16,14 @@ This matrix maps demonstrated skills to portfolio evidence.
 | Vulnerability prioritization | [Chapter 7 CVSS Analysis](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md#lab-2--validate-cvss-and-prioritize) | FIRST CVSS Calculator, scan evidence, risk context | Demonstrated |
 | Remediation planning | [Chapter 7 Remediation Workflow](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md#lab-3--remediate-and-verify) | Change planning, snapshots, rollback criteria | Demonstrated |
 | Remediation verification | [Chapter 7 Remediation Workflow](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md#verified-outcome) | Comparative scanning, target-side checks | Demonstrated |
-| Incident response | Incident-response labs | Logs, evidence, IR workflow | Building |
-| Incident reporting | Incident reporting exercise | CISA resources | Building |
-| Public incident analysis | Public incident report review | Public disclosures | Building |
-| MITRE ATT&CK mapping | ATT&CK mapping projects | MITRE ATT&CK | Building |
+| Incident response | [Chapter 9 Incident Response Planning](../04-incident-response/CYSA-C09-incident-response-planning-and-threat-mapping/README.md) | NIST SP 800-61, evidence-bounded analysis | Demonstrated |
+| Incident reporting | [Chapter 12 Security Reporting](../05-security-reporting/CYSA-C12-security-reporting-and-documentation/README.md) | Synthetic logs, structured reporting | Demonstrated |
+| Public incident analysis | [Chapter 12 Public Incident Critique](../05-security-reporting/CYSA-C12-security-reporting-and-documentation/README.md#labs-completed) | Public disclosures, source corroboration | Demonstrated |
+| MITRE ATT&CK mapping | [Chapter 9 Threat Mapping](../04-incident-response/CYSA-C09-incident-response-planning-and-threat-mapping/README.md) | MITRE ATT&CK, vendor reporting | Demonstrated |
 | Technical documentation | [Published lab writeups](../README.md#portfolio-areas) | Markdown, structured reports | Demonstrated |
-| Executive security reporting | Vulnerability and incident reports | Written analysis | Building |
-| Root-cause analysis | Integrated analyst projects | Evidence and timelines | Building |
-| Evidence handling | [Virtualized Lab](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md), [Chapter 5](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md), [Chapter 6](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md), and [Chapter 7](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md) | Logs, packets, scan results, structured evidence | Demonstrated |
+| Executive security reporting | [Chapter 12 Security Reporting](../05-security-reporting/CYSA-C12-security-reporting-and-documentation/README.md) | Evidence synthesis, written analysis | Demonstrated |
+| Root-cause analysis | [Chapter 10 Log Analysis](../04-incident-response/CYSA-C10-indicator-log-and-preservation-analysis/README.md) | Authentication logs, timelines, integrity checks | Demonstrated |
+| Evidence handling | [Virtualized Lab](../01-security-operations/CYSA-C02-L02-virtualized-security-lab/README.md), [Chapter 5](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md), [Chapter 6](../03-vulnerability-management/CYSA-C06-vulnerability-scanning-workflow/README.md), [Chapter 7](../03-vulnerability-management/CYSA-C07-vulnerability-analysis-and-remediation/README.md), and [Chapter 10](../04-incident-response/CYSA-C10-indicator-log-and-preservation-analysis/README.md) | Logs, packets, scan results, integrity checks, structured evidence | Demonstrated |
 | Metasploit auxiliary scanning | [Chapter 5 Auxiliary Scanning](../01-security-operations/CYSA-C05-network-reconnaissance-and-scanning/README.md#lab-3--metasploit-auxiliary-scanning) | Metasploit, Wmap | Demonstrated |
 | Security workflow automation | CS0-004 extension labs | Automation concepts, scripts | Planned |
 | AI-assisted security operations | CS0-004 extension labs | AI workflow design | Planned |
